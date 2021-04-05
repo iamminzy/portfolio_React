@@ -3,7 +3,7 @@ import React from 'react';
 function Contect() {
   return (
     <div className="App">
-      <p>Contect 페이지 입니다.</p>
+      <h1 className="title">Contect</h1>
     </div>
   );
 }
